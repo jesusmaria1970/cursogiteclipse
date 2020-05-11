@@ -7,3 +7,5 @@ Cambio para fast forward
 Cambio sin fast forward
 
 Cambio olvidado
+
+añado para subir al servidor

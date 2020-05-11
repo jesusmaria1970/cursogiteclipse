@@ -5,3 +5,7 @@ Prueba
 Trabajo en lo que me han pedido a medias del otro trabajo
 
 
+<<<<<<< HEAD
+=======
+cambio de rama 1
+>>>>>>> refs/heads/rama_1

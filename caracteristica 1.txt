@@ -3,3 +3,5 @@ Aqui añado mis cambios de la caracteristica 1
 Cambio de la rama 1
 
 Cambio para fast forward
+
+Cambio sin fast forward
